@@ -12,6 +12,7 @@ Adding google cookies allows you to get easier captchas in the bruteforce tasks.
 3. While still on gmail, click the Export button in EditThisCookie
 4. Paste into bot settings and save
 
+## Update 22/08
 ## FAQ
 Q: Where do I get my 2captcha key?
 A: Sign up and add funds
@@ -30,4 +31,5 @@ A: No, someone must get through the queue before you are able to get sitekey or 
 ![screen shot](http://i.imgur.com/LUJu8n7.png)
 ![screen shot](http://i.imgur.com/9x8bsgI.png)
 ![screen shot](http://i.imgur.com/t88wHpd.png)
-![screen shot](http://i.imgur.com/S8OmsPB.png)
+
+
