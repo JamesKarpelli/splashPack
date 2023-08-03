@@ -13,6 +13,7 @@ Adding google cookies allows you to get easier captchas in the bruteforce tasks.
 4. Paste into bot settings and save
 
 ## Update 22/08
+Everything is working correctly.
 ## FAQ
 Q: Where do I get my 2captcha key?
 A: Sign up and add funds
